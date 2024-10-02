@@ -1,0 +1,137 @@
+/* Golobal Css  */
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto",sans-serif;
+}
+.golobal-btn{
+    width: 160px ;
+    height: 50px;
+    background-color: black;
+    color: white;
+}
+.global-section{
+    padding: 3rem 0;
+}
+.global-heading{
+    font-size: 55px;
+    text-align: center;
+    margin-bottom: 8px;
+}
+.global-head-p{
+    color: #7B7B7B;
+    text-align: center;
+}
+/* this is header */
+.header{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 3rem;
+}
+.main-menu ul li{
+    display: inline;
+    margin-right: 10px;
+
+}
+/* Frist section */
+
+.frist-section{
+    background-image: url(asset/intro-bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 10rem 0;
+    text-align: center;
+    
+}
+.frist-section P{
+font-size: 3rem;
+margin: 10px;
+}
+.frist-section h2{
+    font-size: 5rem;
+    margin: 10px 0;
+}
+
+/* About us section */
+.about-mein-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 7rem 0;
+}
+.about-sub-div2{
+    width: 400px;
+    align-items: center;
+}
+.about-sub-div2 h2{
+     font-size: 33px;
+}
+.about-sub-div2 p{
+    color: #7B7B7B;
+    margin: 15px 0;
+}
+/* This is Service Area */
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.grid-ingle-item{
+    padding: 50px;
+    text-align: center;
+}
+img{
+    width: 120px;
+    height: 100px;
+}
+/* This is Work Section */
+.work-singl-img{
+    width: 350px;
+    height: 200px;
+}
+ /* This is Testimonial Section */
+ .testimonial-p{
+    color: black;
+    margin-top: 5px;
+ }
+ /* contact section */
+ .contact-heading{
+    font-size: 55px;
+    text-align: center;
+ }
+ form{
+    margin-left: 50rem;
+    margin-top: 25px;
+ }
+ form input{
+    width: 252px;
+ }
+ .subtnmit-btn{
+    width: 150px;
+    height: 25px;
+    background-color: black;
+    color: white;
+ }
+ .subtnmit-btn{
+    width: 150px;
+    height: 25px;
+    background-color: black;
+    color: white;
+ }
+
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+
+    
